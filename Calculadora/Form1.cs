@@ -160,7 +160,6 @@ namespace Calculadora
         {
             txtResultado.Text = "";
             lblOperacao.Text = "";
-            //aaaa
         }
 
         private void button6_Click(object sender, EventArgs e)
